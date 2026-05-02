@@ -42,9 +42,7 @@ project-folder/
 ## 📸 Screenshots
 
 ### 🏠 Default Screen
-<p align="center">
-  <img src="./screenshots/img1.png" width="600" style="border:2px solid #ddd; border-radius:12px; padding:6px;" />
-</p>
+<img src="./screenshots/img1.png" width="600" style="border:2px solid #ccc; border-radius:10px; padding:5px;" />
 
 ### 🟡 Yellow Theme
 <img src="./screenshots/img2.png" width="600"/>
