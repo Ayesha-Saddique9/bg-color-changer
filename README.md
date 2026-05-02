@@ -30,8 +30,10 @@ project-folder/
 ├── index.html
 ├── index.css
 ├── index.js
-├── assets/
-│   └── screenshot.png
+├── screenshots/
+│   └── img1.png
+    └── img2.png
+    └── img3.png
 │
 └── README.md
 ```
@@ -40,20 +42,19 @@ project-folder/
 
 ## 📸 Screenshot
 
-<p align="center">
-  <img src="./screenshots/img1.png" width="250"/>
-  <img src="./screenshots/img2.png" width="250"/>
-  <img src="./screenshots/img33.png" width="250"/>
-</p>
+![img1](./screenshots/img1.png)
 
----
+![img2](./screenshots/img2.png)
+
+![img3](./screenshots/img3.png)
+
 
 ## ⚙️ How to Run
 
 1. Download or clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/bg-color-changer.git
+git clone  https://github.com/Ayesha-Saddique9/bg-color-changer 
 ```
 
 2. Open the project folder
