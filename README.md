@@ -4,6 +4,11 @@ A simple and interactive JavaScript project that allows users to change the back
 
 ---
 
+## 🌐 Live Demo
+[Click here to view](https://your-link.com)
+
+---
+
 ## 🚀 Features
 
 * 🎯 Change background color with a single click
@@ -31,22 +36,24 @@ project-folder/
 ├── index.css
 ├── index.js
 ├── screenshots/
-│   └── img1.png
-    └── img2.png
-    └── img3.png
+│  └── img1.png
+│  └── img2.png
+│  └── img3.png
 │
 └── README.md
 ```
 
 ---
+## 📸 Screenshots
 
-## 📸 Screenshot
+### 🏠 Default Screen
+<img src="./screenshots/img1.png" width="600"/>
 
-![img1](./screenshots/img1.png)
+### 🟡 Yellow Theme
+<img src="./screenshots/img2.png" width="600"/>
 
-![img2](./screenshots/img2.png)
-
-![img3](./screenshots/img3.png)
+### 🟣 Purple Theme
+<img src="./screenshots/img3.png" width="600"/>
 
 
 ## ⚙️ How to Run
@@ -90,3 +97,8 @@ Suggestions and improvements are welcome!
 ## 📜 License
 
 Free to use for learning purposes.
+
+---
+
+## 👩‍💻 Author
+Made with ❤️ by Ayesha
