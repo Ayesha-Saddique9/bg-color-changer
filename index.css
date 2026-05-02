@@ -1,0 +1,27 @@
+body{
+   transition: background-color .5s ease;
+}
+ #container{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+ }
+ .btns{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 20px;
+ }
+ .btn{
+   width: 80px;
+   height: 40px;
+   outline: none;
+   border: none;
+   border-radius: 7px;
+   background-color: lightgrey;
+   cursor: pointer;
+ }
+ .btn:hover{
+   opacity: 0.8;
+ }
